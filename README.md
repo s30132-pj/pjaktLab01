@@ -1,4 +1,4 @@
-# Moje pierwsze repotytorium
+# Moje pierwsze repozytorium
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut venenatis turpis a lorem aliquet porttitor. Aenean commodo, orci vitae efficitur semper, nisi purus porta leo, ac iaculis lorem ligula ut lorem. Quisque placerat nisi a dolor accumsan hendrerit. Vestibulum lacinia euismod massa, sit amet pulvinar felis. Nunc vitae nunc a risus finibus imperdiet. In vitae sem urna. Nullam id ex euismod est porta pharetra. Morbi vitae lacus porta, faucibus risus et, auctor justo. Curabitur odio ligula, accumsan ac nibh eget, commodo suscipit odio. Sed efficitur, massa id commodo molestie, lectus dolor rutrum dolor, eu congue augue ex at arcu. In quam nibh, elementum id nunc id, lobortis lacinia mi. Donec iaculis consequat metus, laoreet tincidunt nisi.
 
 Nulla vel turpis metus. Curabitur sit amet nisl est. Proin et rutrum libero. Interdum et malesuada fames ac ante ipsum primis in faucibus. Phasellus nunc urna, condimentum vel luctus vitae, vehicula eget velit. Aenean ac sapien tellus. Phasellus non nisl a libero fringilla mattis. Suspendisse sagittis quam turpis, vel tincidunt lectus commodo in.
